@@ -1,0 +1,20 @@
+[project]
+name = "Lucas"
+version = 0.1.0
+description = "Lucas AI Trading Backtester App"
+authors = [{name= "Nwabeke Praisejah"}]
+requires-python = ">=3.9"
+dependencies = [
+"pandas",
+"numpy",
+"yfinance",
+"backtester",
+"quantstats",
+"pyyaml",
+"matplotlib",
+"scikit-learn",
+"rich"
+]
+
+[tools.setuptools.packages.find]
+where = ["."]
