@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite
+*.db
+*.log
+.cache/
+.env
+.cache/
+reports/
+runs/
