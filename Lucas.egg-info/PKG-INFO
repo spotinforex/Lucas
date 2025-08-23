@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: Lucas
+Version: 0.1.0
+Summary: Lucas AI Trading Backtester App
+Author-email: Nwabeke Praisejah <nwabekepraisejah@gmail.com>
+Requires-Python: >=3.9
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: yfinance
+Requires-Dist: backtesting
+Requires-Dist: quantstats
+Requires-Dist: pyyaml
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: rich
+Requires-Dist: pytest
+Dynamic: license-file

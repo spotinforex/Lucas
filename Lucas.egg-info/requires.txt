@@ -1,0 +1,10 @@
+pandas
+numpy
+yfinance
+backtesting
+quantstats
+pyyaml
+matplotlib
+scikit-learn
+rich
+pytest
