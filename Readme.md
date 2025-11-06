@@ -61,12 +61,12 @@ The Lucas Automated Trading Backtester supports:
 ---
 
 ## 🧰 Tech Stack
--Frontend: - React, TailwindCSS, Vite
--Backend: - FastAPI, Python
--Database: - PostgreSQL (Cloud SQL), BigQuery, Redis
--Infrastructure: - Docker, Google Cloud Run, MCP
--Agents: - Agent Development Kit, Gemini Models
--Dev Tools: - GitHub Actions, Postman, Lite-xl
+- Frontend: - React, TailwindCSS, Vite
+- Backend: - FastAPI, Python
+- Database: - PostgreSQL (Cloud SQL), BigQuery, Redis
+- Infrastructure: - Docker, Google Cloud Run, MCP
+- Agents: - Agent Development Kit, Gemini Models
+- Dev Tools: - GitHub Actions, Postman, Lite-xl
 
 ---
 
@@ -76,6 +76,6 @@ The Lucas Automated Trading Backtester supports:
 ---
 
 ## 🌐 Links
--Project Website: - https://lucas-frontend-215805715498.us-central1.run.app
--Author: - Nwabeke Praisejah
--Email: - nwabekepraisejah@gmail.com
+- Project Website: - https://lucas-frontend-215805715498.us-central1.run.app
+- Author: - Nwabeke Praisejah
+- Email: - nwabekepraisejah@gmail.com
