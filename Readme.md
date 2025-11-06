@@ -25,11 +25,11 @@ Lucas integrates:
 ---
 
 ## 🧩 Core Components Folders
--**cloud_runner** - handles the safe executing of scripts in a safe sandbox environment running as a Cloud Run Job, the run job utilizes Google Cloud Storage for the safe uploading and retrieving of files needed.
--**mcps** - The Model Context Protocol Server that handles the data retrieval from the data vendor and the calling of the **cloud_runner** with the intended script to execute. The **mcps** utilizes bigquery and redis to ensure a more smoother performance.
--**llm** - This is the heart of the application where the Agent Development Kit (ADK) is located, the models used here include Gemini 2.5 flash and Gemini 2.5 pro.
--**Auth** - This is the gateway to the app where API calls from the frontend are carefully routed and results returned.
--**lucas-front-main** - As the name implies is the face of the application, providing a User friendly Interface to communicate with the application.
+- **cloud_runner** - handles the safe executing of scripts in a safe sandbox environment running as a Cloud Run Job, the run job utilizes Google Cloud Storage for the safe uploading and retrieving of files needed.
+- **mcps** - The Model Context Protocol Server that handles the data retrieval from the data vendor and the calling of the **cloud_runner** with the intended script to execute. The **mcps** utilizes bigquery and redis to ensure a more smoother performance.
+- **llm** - This is the heart of the application where the Agent Development Kit (ADK) is located, the models used here include Gemini 2.5 flash and Gemini 2.5 pro.
+- **Auth** - This is the gateway to the app where API calls from the frontend are carefully routed and results returned.
+- **lucas-front-main** - As the name implies is the face of the application, providing a User friendly Interface to communicate with the application.
 
 ---
 
@@ -61,12 +61,12 @@ The Lucas Automated Trading Backtester supports:
 ---
 
 ## 🧰 Tech Stack
--Frontend: React, TailwindCSS, Vite
--Backend: FastAPI, Python
--Database: PostgreSQL (Cloud SQL), BigQuery, Redis
--Infrastructure: Docker, Google Cloud Run, MCP
--Agents: Agent Development Kit, Gemini Models
--Dev Tools: GitHub Actions, Postman, Lite-xl
+-Frontend: - React, TailwindCSS, Vite
+-Backend: - FastAPI, Python
+-Database: - PostgreSQL (Cloud SQL), BigQuery, Redis
+-Infrastructure: - Docker, Google Cloud Run, MCP
+-Agents: - Agent Development Kit, Gemini Models
+-Dev Tools: - GitHub Actions, Postman, Lite-xl
 
 ---
 
@@ -76,6 +76,6 @@ The Lucas Automated Trading Backtester supports:
 ---
 
 ## 🌐 Links
--Project Website: https://lucas-frontend-215805715498.us-central1.run.app
--Author: Nwabeke Praisejah
--Email: nwabekepraisejah@gmail.com
+-Project Website: - https://lucas-frontend-215805715498.us-central1.run.app
+-Author: - Nwabeke Praisejah
+-Email: - nwabekepraisejah@gmail.com
