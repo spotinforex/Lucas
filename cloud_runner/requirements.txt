@@ -1,0 +1,7 @@
+google-cloud-storage
+pandas
+numpy
+backtesting
+vectorbt
+python-dotenv
+pyarrow
