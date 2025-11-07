@@ -71,7 +71,7 @@ The Lucas Automated Trading Backtester supports:
 ---
 
 ## 📽️ Demo Video
-🎥 Coming soon 
+https://youtu.be/nQmDtZnhoSE?si=bpoS8IBHBif2FI1V
 
 ---
 
